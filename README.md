@@ -20,7 +20,7 @@
 
 <h3>📈 Contribution Activity</h3>
 <p>
-  <img src="https://ghchart.rshah.org/8A2BE2/alltux" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/8A2BE2/mfDev0" alt="Contribution Graph" />
 </p>
 
 <hr>
