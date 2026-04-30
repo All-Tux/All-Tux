@@ -1,48 +1,39 @@
-<div align="center">
-  <img src="./vultures.gif" width="180" alt="Vultures Animation">
+<h1>
+  <img width="188" height="183" alt="image" src="https://github.com/user-attachments/assets/2269ce49-dd5a-41c3-85aa-267464bfd25d" align="right" />
+  ⭐ Hi, I'm Mohamed Fares
+</h1>
 
-  # 👋 Hi, I'm Mohamed Fares
+<p><strong>Student | FTC Robotics | Cybersecurity</strong></p>
 
-  **Student | FTC Robotics | Cybersecurity**
+<p><em>Currently competing in FTC robotics and exploring the world of cybersecurity.</em></p>
 
-  *Currently competing in FTC robotics and exploring the world of cyber security.*
-  
-  <br>
+<hr>
 
-  <a href="https://www.linkedin.com/in/mohamed-adel-fares/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-
-</div>
-
----
-
-### 🛠️ Skills & Technologies
-
-<div align="center">
+<h3>⚡ Skills & Technologies</h3>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,c,cpp,bash,git,linux&theme=dark&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=js,ts,github,java,androidstudio,gcp,webstorm&theme=dark" alt="My Skills" />
   </a>
-</div>
+</p>
 
----
+<hr>
 
-### 📊 GitHub Activity
-
-<div align="center">
+<h3>📈 Contribution Activity</h3>
+<p>
   <img src="https://ghchart.rshah.org/8A2BE2/alltux" alt="Contribution Graph" />
-</div>
+</p>
 
----
+<hr>
 
-### 🎧 Now Playing
-
-<div align="center">
+<h3>🎵 On Repeat</h3>
+<p>
   <a href="https://open.spotify.com/user/314grppzpqde7mr43444mkcizuem">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=314grppzpqde7mr43444mkcizuem&count=1" alt="Spotify Last Played" />
   </a>
-</div>
+</p>
 
 <br>
 
-<div align="center">
-  <i>Shakespeare in the flesh</i>
-</div>
+<blockquote>
+  <p><em>Shakespeare in the flesh</em></p>
+</blockquote>
